@@ -1,3 +1,5 @@
+![vhs-agents-and-skills](banner.png)
+
 # VHS Agents & Skills
 
 A curated, open-source collection of **Claude Code subagents and skills** for
