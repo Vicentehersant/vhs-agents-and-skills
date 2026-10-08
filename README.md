@@ -62,7 +62,7 @@ Claude Code loads subagents from `~/.claude/agents/` (global) or `.claude/agents
 (per project), and skills from `~/.claude/skills/` or `.claude/skills/`.
 
 ```bash
-git clone https://github.com/<you>/vhs-agents-and-skills.git
+git clone https://github.com/Vicentehersant/vhs-agents-and-skills.git
 cd vhs-agents-and-skills
 
 # One agent, globally
